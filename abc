@@ -1,0 +1,17 @@
+cpp
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    long N,x;
+    pair<long,string> a[N];
+    string k;
+    long b;
+    cin>>N>>x;
+    for(int i=0;i<N;i++){
+        cin>>k>>b;
+        a[i].first=b;
+        a[i].second=a;
+    }
+    cout>>a[N-x].second;
+    
+    return 0;

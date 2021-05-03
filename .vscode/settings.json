@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "set": "cpp",
+        "xiosbase": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

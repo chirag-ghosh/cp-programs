@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.text_to_handwriting("Hello I am Hardik",r"C:\Users\rajiv\Desktop\a.png")
